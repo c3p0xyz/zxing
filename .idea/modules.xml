@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../beanUtilsDemo/beanUtilsDemo.iml" filepath="$PROJECT_DIR$/../beanUtilsDemo/beanUtilsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../web-demo/web-demo.iml" filepath="$PROJECT_DIR$/../web-demo/web-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../web-demo/web-test.iml" filepath="$PROJECT_DIR$/../web-demo/web-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zxing-qrcode.iml" filepath="$PROJECT_DIR$/zxing-qrcode.iml" />
+    </modules>
+  </component>
+</project>
